@@ -1,24 +1,32 @@
 # Movie Ticket Booking System
 
-Group database project involving ER diagram design, database structure planning, and basic SQL implementation for a movie ticket booking system.
+### Project Overview
 
-## Tools
+This is a group project completed for the SP222 Database course at the University of the Thai Chamber of Commerce (UTCC).
 
-* SQL
-* MySQL
-* ER Diagram
-* Database Design
+The project focuses on designing a database for a movie ticket booking system. It covers movie information, cinema locations, showtimes, seats, ticket prices, bookings, and payments.
 
-## Files
+### Technologies & Tools
 
-### Cinema ER d2-7.pdf
+- **Query Language:** SQL
+- **Database Management Tool:** phpMyAdmin
+- **Database Design:** Entity Relationship Diagram (ERD)
 
-Entity Relationship Diagram (ERD) showing entities and relationships within the system.
+### Project Work
 
-### Movie Ticket Booking System.pdf
+- Designed the database structure and planned how the tables connect to support the movie ticket booking process.
+- Created an ER diagram to show the relationships between cinemas, movies, showtimes, seats, and bookings.
+- Developed SQL tables with primary keys and sample data for the booking system.
+- Used SQL JOIN queries to retrieve information about cinema locations, movies, seat types, and customer bookings.
 
-Project presentation describing the system overview, database design, and booking workflow.
+### Results
 
-### Major_Complexe.sql
+The project was completed as a group database assignment, including the ER diagram, SQL database structure, sample data, and example queries.
 
-SQL schema file containing database tables and relationships.
+The database design helps organize the information needed for movie selection, seat booking, ticket pricing, and payment records.
+
+### Project Files
+
+- **Cinema ER d2-7.pdf** – ER diagram showing the database tables and their relationships.
+- **Major_Complexe.sql** – SQL file containing the database structure and sample data.
+- **Movie Ticket Booking System.pdf** – Project presentation explaining the database design, booking process, and example SQL queries.
